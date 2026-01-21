@@ -1,6 +1,6 @@
 # Olá, eu sou Marco Antônio!
 
-- 🎓 Estudante de ADS(Análise e Desenvolvimento de Sistemas)
+- 🎓 Estudante de ADS (Análise e Desenvolvimento de Sistemas)
 - 👨‍💻 Desenvolvedor Full-Stack
 - 📱 Desenvolvedor Mobile
 - 👨‍💻 Foco em Back-end com Java, Spring Boot, Angular, Dart e Flutter
