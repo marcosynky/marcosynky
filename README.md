@@ -1,8 +1,8 @@
 # Olá, eu sou Marco Antônio!
 
 - 🎓 Estudante de ADS(Análise e Desenvolvimento de Sistemas)
-- 👨‍💻 Desenvolvedor Full-Stack ![Full Stack](https://img.shields.io/badge/Full--Stack-%23000000?style=for-the-badge&logo=github&logoColor=white)
-- 📱 Desenvolvedor Mobile ![Mobile](https://img.shields.io/badge/Mobile-%23000000?style=for-the-badge&logo=apple&logoColor=white)
+- 👨‍💻 Desenvolvedor Full-Stack
+- 📱 Desenvolvedor Mobile
 - 👨‍💻 Foco em Back-end com Java, Spring Boot, Angular, Dart e Flutter
 - 🔧 Experiência com Python, PHP, HTML, CSS, JavaScript, React, React Native
 
