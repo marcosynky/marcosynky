@@ -38,6 +38,9 @@
 ### Banco de Dados:
 ![MySQL](https://img.shields.io/badge/MySQL-%2300A4DB?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%2331575C?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-%2344D1D6?style=for-the-badge&logo=supabase&logoColor=white)
+
 
 ## Projetos em Destaque
 Aqui estão alguns dos meus projetos:
